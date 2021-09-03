@@ -1,1 +1,1 @@
-# Coursera-Lab-Data-Visualization
+# Coursera-Lab
